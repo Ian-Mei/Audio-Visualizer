@@ -13,7 +13,6 @@ function onTouch() {
 }
 
 function preload() {
-  song = loadSound('this-dot-kp.mp3');
   img = loadImage('TCSA.png')
 }
 
